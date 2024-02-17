@@ -4,16 +4,8 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
-  height: -webkit-fill-available;
-}
-body {
-  height: 100svh;
-  height: -webkit-fill-available;
-}
 .page {
   height: 100svh;
-  height: -webkit-fill-available;
 }
 
 @font-face {
