@@ -41,7 +41,7 @@ export default function Beeba() {
     });
   });
   return (
-    <section className="pt-[4.5rem] px-5 bg-[#1F1B26] h-[100svh] w-screen relative">
+    <section className="page pt-[4.5rem] px-5 bg-[#1F1B26] h-[100svh] w-screen relative">
       <div
         className="text-[#FEADBA] rich_punk"
         ref={(el) => (h1Ref.current = el)}

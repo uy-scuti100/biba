@@ -33,7 +33,7 @@ export default function Express() {
     );
   });
   return (
-    <section className="pt-[4.5rem] px-5 bg-[#E9EAEC] h-[100svh] balbes uppercase">
+    <section className="pt-[4.5rem] px-5 bg-[#E9EAEC] h-[100svh] balbes uppercase page">
       <div
         className="text-[61px] leading-[90%]"
         ref={(el) => (h1Ref.current = el)}

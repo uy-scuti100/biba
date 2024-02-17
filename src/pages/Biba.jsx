@@ -61,7 +61,7 @@ export default function Biba() {
         <div className="w-[10vw] h-[105vh] bg-black bar"></div>
       </div>
 
-      <div className="bg-[#EDEDED] h-[100svh] w-screen pt-16 max-w-5xl mx-auto flex justify-between relative items-center flex-col z-20">
+      <div className="page bg-[#EDEDED] h-[100svh] w-screen pt-16 max-w-5xl mx-auto flex justify-between relative items-center flex-col z-20">
         <div className="flex flex-col items-center justify-center uppercase opacity-50 pointer-events-none select-none rubik">
           <div className="flex justify-between w-full leading-[100%]">
             <h1 className="relative h1">V</h1>

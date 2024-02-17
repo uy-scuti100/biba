@@ -39,7 +39,7 @@ export default function ExpressTwo() {
     });
   });
   return (
-    <section className="pt-[4.5rem] px-5 bg-[#E9EAEC] h-[100svh] w-screen relative">
+    <section className="pt-[4.5rem] px-5 bg-[#E9EAEC] h-[100svh] w-screen relative page">
       <div
         ref={imageRef}
         className="w-full"

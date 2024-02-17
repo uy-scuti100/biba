@@ -44,7 +44,7 @@ export default function AuraTwo() {
     });
   });
   return (
-    <section className="pt-[3.5rem] bg-[#EAE0D4] h-[100svh] w-screen relative">
+    <section className="page pt-[3.5rem] bg-[#EAE0D4] h-[100svh] w-screen relative">
       <div className="pt-[20px] px-5">
         <h1 className="roboto font-bold text-[32px] uppercase leading-none wordings">
           every <br /> day

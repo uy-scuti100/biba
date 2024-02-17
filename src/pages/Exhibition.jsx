@@ -18,10 +18,10 @@ export default function Exhibition() {
     });
   });
   return (
-    <section className="overflow-hidden section">
+    <section className="overflow-hidden section page">
       <Transition pagename="Exhibition" color="#F4F4F4" />
 
-      <div className="overflow-hidden relative bg-[#F4F4F4] h-[100svh]  w-screen max-w-5xl mx-auto pt-16 px-6">
+      <div className=" page overflow-hidden relative bg-[#F4F4F4] h-[100svh]  w-screen max-w-5xl mx-auto pt-16 px-6">
         <div className="pb-8">
           <div className="text-base leading-normal text-black roboto">
             <span>Welcome,&nbsp;</span>

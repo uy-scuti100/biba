@@ -38,7 +38,10 @@ export default function Weird() {
   return (
     <>
       <Transition pagename="Yes" />
-      <section className="pt-20 h-[100svh] sectionweird" ref={sectionweird}>
+      <section
+        className="page pt-20 h-[100svh] sectionweird"
+        ref={sectionweird}
+      >
         <div className="flex flex-col items-center justify-center">
           <p className="roboto uppercase leading-[90%]">let's say</p>
           <h1 className="text-[8.125rem] leading-[122px]">

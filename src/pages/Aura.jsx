@@ -24,7 +24,7 @@ export default function Aura() {
     });
   });
   return (
-    <section className="pt-[3rem] bg-[#C32325] h-[100svh] w-screen relative">
+    <section className="page pt-[3rem] bg-[#C32325] h-[100svh] w-screen relative">
       <h1
         className="text-[148px] text-center text-[#EAE0D4] crasus"
         ref={h1Ref}

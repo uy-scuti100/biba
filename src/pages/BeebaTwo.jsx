@@ -32,7 +32,7 @@ export default function BeebaTwo() {
     });
   });
   return (
-    <section className="pt-[3.5rem] bg-[#FEADBA] h-[100svh] w-screen relative">
+    <section className="pt-[3.5rem] bg-[#FEADBA] h-[100svh] page w-screen relative">
       <div
         className="text-[128px] text-center rich_punk flex items-center justify-center"
         ref={(el) => (h1Ref.current = el)}

@@ -22,7 +22,7 @@ export default function WeirdTwo() {
     });
   });
   return (
-    <section className="relative pt-[72px] h-[100svh] bg-[#C2E2FF]">
+    <section className="page relative pt-[72px] h-[100svh] bg-[#C2E2FF]">
       <div className="pl-10 section-you">
         <h1 className="roboto text-[3.73rem] font-medium leading-[90%] uppercase">
           Stay{" "}
